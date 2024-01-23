@@ -1,0 +1,10 @@
+C:\Users\cchevuri\source\repos\ITGTraining24\ITGTraining24\bin\Debug\ITGTraining24.exe.config
+C:\Users\cchevuri\source\repos\ITGTraining24\ITGTraining24\bin\Debug\ITGTraining24.exe
+C:\Users\cchevuri\source\repos\ITGTraining24\ITGTraining24\bin\Debug\ITGTraining24.pdb
+C:\Users\cchevuri\source\repos\ITGTraining24\ITGTraining24\bin\Debug\ClassLibrary1.dll
+C:\Users\cchevuri\source\repos\ITGTraining24\ITGTraining24\bin\Debug\ClassLibrary1.pdb
+C:\Users\cchevuri\source\repos\ITGTraining24\ITGTraining24\obj\Debug\ITGTraining24.csproj.AssemblyReference.cache
+C:\Users\cchevuri\source\repos\ITGTraining24\ITGTraining24\obj\Debug\ITGTraining24.csproj.CoreCompileInputs.cache
+C:\Users\cchevuri\source\repos\ITGTraining24\ITGTraining24\obj\Debug\ITGTraining24.csproj.CopyComplete
+C:\Users\cchevuri\source\repos\ITGTraining24\ITGTraining24\obj\Debug\ITGTraining24.exe
+C:\Users\cchevuri\source\repos\ITGTraining24\ITGTraining24\obj\Debug\ITGTraining24.pdb
